@@ -7,7 +7,7 @@ Dataset :
 The Titanic dataset, sourced from Kaggle, contains information about passengers aboard the RMS Titanic, including demographics, ticket details, and survival status. It is an ideal dataset for exploring factors that influenced survival during the tragic sinking.
 
 
-#___________________________________________________________________________
+___________________________________________________________________________
 
 
 Methodology:
@@ -32,7 +32,9 @@ EDA involves exploring the dataset to uncover patterns, trends, and relationship
 
        b. Visualization: Utilize visualizations like histograms, box plots, and scatter plots to visualize distributions and relationships between variables such as survival rates across different passenger classes, age groups, and gender.
 
-#___________________________________________________________________________
+___________________________________________________________________________
+
+
 Conclusion
 Data cleaning and exploratory data analysis on the Titanic dataset provide valuable insights into the factors influencing survival during the disaster.
 By systematically cleaning the data and conducting comprehensive EDA, we uncover patterns and relationships that inform subsequent analytical processes and decision-making.
