@@ -6,7 +6,10 @@ Data cleaning and exploratory data analysis (EDA) are crucial initial steps in a
 Dataset : 
 The Titanic dataset, sourced from Kaggle, contains information about passengers aboard the RMS Titanic, including demographics, ticket details, and survival status. It is an ideal dataset for exploring factors that influenced survival during the tragic sinking.
 
+
 #___________________________________________________________________________
+
+
 Methodology:
 1. Data Loading and Initial Exploration
 The first step involves loading the dataset into a Pandas DataFrame for analysis. Initial exploration includes examining the structure of the dataset and displaying a snapshot of the first few rows to understand its contents.
