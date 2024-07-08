@@ -35,6 +35,7 @@ EDA involves exploring the dataset to uncover patterns, trends, and relationship
 ___________________________________________________________________________
 
 
-Conclusion
+Conclusion:
+
 Data cleaning and exploratory data analysis on the Titanic dataset provide valuable insights into the factors influencing survival during the disaster.
 By systematically cleaning the data and conducting comprehensive EDA, we uncover patterns and relationships that inform subsequent analytical processes and decision-making.
